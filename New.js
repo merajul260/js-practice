@@ -126,3 +126,4 @@ else if(x < y){
 }
 else{ console.log("thare both has Same")
 }
+console.log('file has updated !')
