@@ -5,6 +5,7 @@
 
 
 // var StrFridn= "Amadar name"
+
 // console.log(typeof StrFridn)
 
 
